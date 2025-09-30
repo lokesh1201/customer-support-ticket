@@ -1,0 +1,101 @@
+Ticket_ID,Subject,Description,Category,Priority,Timestamp
+1,App crash on login,App crashes when 2FA enabled,Bug Report,High,2025-01-01 10:00:00
+2,Need export to CSV,Request ability to export reports to CSV,Feature Request,Medium,2025-01-02 11:00:00
+3,VPN connection issue,Unable to connect via VPN on corporate network,Technical Issue,High,2025-01-03 12:30:00
+4,Billing overcharge,Charged twice for monthly subscription,Billing Inquiry,High,2025-01-04 13:45:00
+5,Reset password link invalid,Password reset link expired after 5 minutes,Account Management,Medium,2025-01-05 09:15:00
+6,App freeze on settings,Application becomes unresponsive when changing settings,Bug Report,Medium,2025-01-06 14:00:00
+7,Dark mode request,Users request dark mode feature for better readability,Feature Request,Low,2025-01-07 16:10:00
+8,Email sync failure,Emails not syncing with the server,Technical Issue,High,2025-01-08 09:20:00
+9,Refund not processed,Refund request pending for 2 weeks,Billing Inquiry,High,2025-01-09 10:40:00
+10,Profile picture update error,Unable to upload new profile picture,Account Management,Low,2025-01-10 12:00:00
+11,Search crash,App crashes when searching long queries,Bug Report,High,2025-01-11 15:30:00
+12,Multi-language support,Customers request French language support,Feature Request,Medium,2025-01-12 09:45:00
+13,WiFi disconnect,Application disconnects frequently on WiFi,Technical Issue,Medium,2025-01-13 13:00:00
+14,Duplicate invoice,Invoice generated twice for one purchase,Billing Inquiry,High,2025-01-14 11:30:00
+15,Two-factor setup blocked,Error during setup of 2FA,Account Management,High,2025-01-15 14:20:00
+16,Crash on report generation,App crashes while generating PDF reports,Bug Report,High,2025-01-16 10:05:00
+17,Add calendar integration,Feature request to sync events with Google Calendar,Feature Request,Medium,2025-01-17 11:45:00
+18,Slow VPN speed,VPN speed drops drastically during peak hours,Technical Issue,Medium,2025-01-18 09:00:00
+19,Wrong tax applied,Incorrect tax percentage applied to bill,Billing Inquiry,High,2025-01-19 14:10:00
+20,Login locked out,Account locked after multiple login attempts,Account Management,High,2025-01-20 08:50:00
+21,Notification crash,App crashes when clicking on notifications,Bug Report,Medium,2025-01-21 13:00:00
+22,Custom dashboard request,Users want customizable dashboard widgets,Feature Request,Low,2025-01-22 15:10:00
+23,Server timeout,Frequent timeout errors when loading app,Technical Issue,High,2025-01-23 16:30:00
+24,Missing invoice,Invoice not available in billing history,Billing Inquiry,Medium,2025-01-24 10:20:00
+25,Email not updating,User unable to update account email,Account Management,Low,2025-01-25 09:30:00
+26,UI glitch,Buttons overlap on small screen devices,Bug Report,Low,2025-01-26 13:15:00
+27,Add voice commands,Request to control app with voice commands,Feature Request,Low,2025-01-27 11:40:00
+28,Printer not detected,Application fails to detect network printer,Technical Issue,Medium,2025-01-28 14:25:00
+29,Incorrect billing cycle,Charged quarterly instead of monthly,Billing Inquiry,High,2025-01-29 12:50:00
+30,Password reset email missing,Reset email not received,Account Management,Medium,2025-01-30 10:30:00
+31,Crash on logout,App crashes when logging out,Bug Report,Medium,2025-01-31 11:20:00
+32,Offline mode request,Users request offline mode support,Feature Request,Low,2025-02-01 09:00:00
+33,Bluetooth issue,Bluetooth devices not connecting properly,Technical Issue,High,2025-02-02 15:20:00
+34,Wrong amount charged,Billing statement shows wrong total,Billing Inquiry,High,2025-02-03 12:40:00
+35,Account deletion blocked,Error while trying to delete account,Account Management,High,2025-02-04 13:15:00
+36,Crash on settings save,App crashes when saving preferences,Bug Report,High,2025-02-05 14:50:00
+37,Dark theme improvement,Request improved dark theme colors,Feature Request,Low,2025-02-06 11:30:00
+38,Network error,App fails to connect over mobile data,Technical Issue,High,2025-02-07 10:15:00
+39,Subscription not updated,Payment made but subscription not renewed,Billing Inquiry,High,2025-02-08 09:40:00
+40,Multiple login error,Login blocked if signed in on multiple devices,Account Management,Medium,2025-02-09 08:25:00
+41,Search freeze,App freezes on advanced search,Bug Report,Medium,2025-02-10 16:00:00
+42,Custom alerts,Users request customizable notification alerts,Feature Request,Low,2025-02-11 15:10:00
+43,Slow database queries,App slows down with large datasets,Technical Issue,Medium,2025-02-12 14:35:00
+44,Invoice not emailed,Customer did not receive invoice email,Billing Inquiry,Medium,2025-02-13 10:25:00
+45,Phone number update error,Unable to change phone number in profile,Account Management,Low,2025-02-14 13:15:00
+46,App crash on startup,App fails to load on certain devices,Bug Report,High,2025-02-15 09:00:00
+47,Integrate Slack,Users want Slack notifications,Feature Request,Medium,2025-02-16 12:40:00
+48,Audio not playing,Sound does not work in app,Technical Issue,Medium,2025-02-17 14:10:00
+49,Double payment taken,Customer charged twice for same order,Billing Inquiry,High,2025-02-18 13:20:00
+50,Change username blocked,Unable to update username,Account Management,Low,2025-02-19 10:30:00
+51,Report export crash,Crash while exporting reports to Excel,Bug Report,Medium,2025-02-20 14:50:00
+52,New dashboard design,Feature request for modern dashboard,Feature Request,Low,2025-02-21 09:10:00
+53,Frequent disconnect,App disconnects from server often,Technical Issue,High,2025-02-22 11:40:00
+54,Refund delayed,Refund not credited after 10 days,Billing Inquiry,High,2025-02-23 12:55:00
+55,Profile update error,Unable to update profile details,Account Management,Medium,2025-02-24 09:35:00
+56,App crash on upload,Crash when uploading large files,Bug Report,High,2025-02-25 13:20:00
+57,New chart types,Feature request for additional graphs,Feature Request,Low,2025-02-26 14:15:00
+58,Email not delivered,Emails from app not reaching inbox,Technical Issue,Medium,2025-02-27 15:05:00
+59,Wrong subscription tier,Billed for premium instead of standard,Billing Inquiry,High,2025-02-28 16:00:00
+60,Security settings bug,Unable to save 2FA settings,Account Management,High,2025-03-01 09:25:00
+61,Crash on analytics,App crashes when viewing analytics,Bug Report,High,2025-03-02 11:30:00
+62,Custom filters,Feature request for advanced filters,Feature Request,Medium,2025-03-03 13:10:00
+63,App slow startup,Application takes too long to load,Technical Issue,Medium,2025-03-04 10:00:00
+64,Invoice mismatch,Invoice amount differs from order,Billing Inquiry,High,2025-03-05 12:20:00
+65,Deactivate account error,Unable to deactivate account,Account Management,High,2025-03-06 11:35:00
+66,Crash during checkout,App crashes at checkout step,Bug Report,High,2025-03-07 14:15:00
+67,Custom reports,Feature request to build custom reports,Feature Request,Low,2025-03-08 09:00:00
+68,File sync issue,Files not syncing across devices,Technical Issue,High,2025-03-09 12:50:00
+69,Overcharged subscription,Billed higher than plan,Billing Inquiry,High,2025-03-10 14:40:00
+70,Login via SSO fails,SSO login does not work,Account Management,High,2025-03-11 15:10:00
+71,App crash on search,Crash when searching for reports,Bug Report,Medium,2025-03-12 09:30:00
+72,New API endpoints,Users request new API methods,Feature Request,Medium,2025-03-13 11:40:00
+73,Network timeout,Requests timing out frequently,Technical Issue,High,2025-03-14 10:15:00
+74,Refund applied late,Refund processed after 20 days,Billing Inquiry,Medium,2025-03-15 12:30:00
+75,Email change blocked,Unable to change registered email,Account Management,Low,2025-03-16 13:20:00
+76,Crash on profile view,App crashes when viewing profile,Bug Report,Medium,2025-03-17 09:45:00
+77,New payment methods,Feature request for PayPal support,Feature Request,Low,2025-03-18 11:10:00
+78,App lags on updates,Performance issues after update,Technical Issue,Medium,2025-03-19 10:30:00
+79,Duplicate charges,Charged twice for service,Billing Inquiry,High,2025-03-20 14:20:00
+80,Account not verified,Verification email not working,Account Management,High,2025-03-21 11:15:00
+81,Crash on attachments,App crashes when adding attachments,Bug Report,High,2025-03-22 13:30:00
+82,New themes,Users request multiple color themes,Feature Request,Low,2025-03-23 12:10:00
+83,Printer errors,Errors while printing invoices,Technical Issue,Medium,2025-03-24 09:20:00
+84,Subscription canceled wrongly,Plan canceled without request,Billing Inquiry,High,2025-03-25 15:00:00
+85,Phone verification bug,Unable to verify phone number,Account Management,Medium,2025-03-26 13:40:00
+86,Crash when uploading,App crashes on image upload,Bug Report,High,2025-03-27 09:50:00
+87,Custom export formats,Feature request for JSON export,Feature Request,Medium,2025-03-28 14:30:00
+88,Frequent disconnections,Users report frequent server disconnections,Technical Issue,High,2025-03-29 12:25:00
+89,Wrong billing name,Billing statement shows wrong name,Billing Inquiry,Medium,2025-03-30 13:15:00
+90,Change password fails,Error while changing password,Account Management,High,2025-03-31 11:50:00
+91,Crash on notification open,App crashes when opening push notification,Bug Report,High,2025-04-01 09:10:00
+92,Integrate calendar,Users want built-in calendar support,Feature Request,Medium,2025-04-02 10:20:00
+93,Database errors,Errors in saving records to DB,Technical Issue,High,2025-04-03 12:35:00
+94,Refund not visible,Refund not shown in billing history,Billing Inquiry,Medium,2025-04-04 14:40:00
+95,Account suspension bug,Account suspended without reason,Account Management,High,2025-04-05 13:00:00
+96,Crash on analytics filter,App crashes when applying filters,Bug Report,Medium,2025-04-06 09:15:00
+97,Custom integrations,Feature request for Zapier integration,Feature Request,Low,2025-04-07 11:00:00
+98,Slow queries,App very slow on large queries,Technical Issue,High,2025-04-08 12:20:00
+99,Payment not deducted,Payment not deducted but subscription active,Billing Inquiry,Medium,2025-04-09 14:10:00
+100,Username change error,Error when trying to change username,Account Management,Medium,2025-04-10 09:25:00

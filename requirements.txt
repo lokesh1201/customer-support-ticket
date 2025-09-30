@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+scikit-learn
+joblib
+fastapi
+uvicorn
+pydantic
+orjson
+python-multipart
+pytest
+streamlit
+httpx
+

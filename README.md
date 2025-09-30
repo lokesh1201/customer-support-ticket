@@ -4,6 +4,9 @@ Overview
 - Automates the first step of support handling by classifying incoming tickets into: Bug Report, Feature Request, Technical Issue, Billing Inquiry, Account Management.
 - Includes training pipeline, evaluation (Accuracy, Precision, Recall, F1), latency measurement, REST API for real‑time classification, and a simple Streamlit UI.
 
+Live Demo
+- Streamlit app: [customer-support-ticket.streamlit.app](https://customer-support-ticket.streamlit.app/)
+
 Tech Stack
 - Python 3.8+ (tested on 3.12)
 - Libraries: scikit‑learn, pandas, numpy, FastAPI, Uvicorn, Streamlit, pytest
@@ -105,5 +108,5 @@ Submission (per assessment)
 - Ensure `models/model.joblib` and `models/metrics.json` are present and accessible.
 
 Maintainer
-- Add your full name and contact here.
+- Lokesh Manchala (+91 8639242091).
 
